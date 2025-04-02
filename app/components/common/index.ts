@@ -1,0 +1,10 @@
+export {default as StyledText} from './Text';
+export {default as StyledButton} from './Button';
+export {default as StyledView} from './View';
+export {default as StyledImage} from './Image';
+export {default as StyledSafeAreaView} from './SafeAreaView';
+export {default as StyledWithoutFeedback} from './WithoutFeedback';
+export {default as StyledScrollView} from './ScrollView';
+export {default as StyledSwitch} from './Switch';
+export {default as StyledTouchableOpacity} from './TouchableOpacity';
+export {default as StyledImageBackground} from './ImageBackground';
